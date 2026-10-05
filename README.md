@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### I'm Andrew
+
+*Electrical and Engineering Student @ The Ohio State University*
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=andrewseiverth&langs_count=4&hide_values=true&theme=light_github)](https://github-stats-extended.vercel.app/api/top-langs?username=andrewseiverth&langs_count=4&hide_values=true&theme=light_github)
+
+## Links
+* [**Linkedin**](https://www.linkedin.com/in/andrew-seiverth-92297b401/?isSelfProfile=true)
